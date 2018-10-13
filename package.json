@@ -1,0 +1,11 @@
+{
+  "name": "modern_porfolio",
+  "dependencies": {
+    "node-sass": "^4.9.3",
+    "npm": "^6.4.1"
+  },
+  "version": "1.0.0",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  }
+}
