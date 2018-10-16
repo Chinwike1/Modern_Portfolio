@@ -1,15 +1,11 @@
 @import 'config';
 @import 'menu';
+@import 'mobile';
 
 * {
     box-sizing: border-box;
 }
 
-$primary-color: #444;
-$secondary-color: #eece1a;
-$show-home-image: true;
-$home-image: url(../img/background.jpg);
-$background-opacity: 0.9;
 
 
 @mixin background {
@@ -41,7 +37,7 @@ body {
     color: #fff;
     height: 100%;
     margin: 0;
-    font-family: serif;
+    font-family: rubik;
     line-height: 1.5;
 }
 
