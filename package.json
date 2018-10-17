@@ -1,5 +1,5 @@
 {
-  "name": "modern_porfolio",
+  "name": "modern_portfolio",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "node-sass": "^4.9.3",
